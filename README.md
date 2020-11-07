@@ -1,8 +1,8 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
+<img src="https://i1.faceprep.in/ProGrad/progradjr-logo.png" height="30%" width="30%">
 
-# ProGrad Lab | BRRRGRRR
+# ProGrad Junior Lab | BRRRGRRR
 
-Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of ProGrads and she thought you could do a great job. 
+Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of ProGrad Juniors and she thought you could do a great job. 
 
 Help Mama create a website that'll attract more audience and help her make a living through it. Go to the `src/app.js` file and complete all the unfinished code to let her live here dream.
 
@@ -11,17 +11,6 @@ Help Mama create a website that'll attract more audience and help her make a liv
 Fork this repo
 Clone this repo
 Practice DOM Features
-```
-
-## How To Submit
-```
-Upon completion, run the following commands:
-
-git add .
-git commit -m "ProGrad ID"
-git push origin master
-
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
 ```
 
 ### Progression 1: LAYERS
@@ -44,4 +33,4 @@ Show the customer only the ingredients that they've selected on the chalk board.
 
 The customer has had a good time customizing his brrrgrrr. Time for him to pay. Use ingredient prices to calculate the cost of a brrrgrrr and display it to the customer.
 
-Happy Coding ProGrad ❤️
+Happy Coding ProGrad Junior ❤️
